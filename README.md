@@ -1,2 +1,2 @@
-# cs61a
-learn about cs61a
+# cs61a学习笔记和作业
+
