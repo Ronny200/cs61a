@@ -14,9 +14,9 @@ def a_plus_abs_b(a, b):
     3
     """
     if b < 0:
-        f = lambda a, b: a - b
+        f = sub
     else:
-        f = lambda a, b: a + b
+        f = add
     return f(a, b)
 
 
